@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B40E60F6-AFAA-490C-A194-9145F39053D9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>InputCellDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4727DB2AA647E6189E27C9A1627C2FF8F2550F92</key>
+		<string>https://github.com/libing1125/InputCellDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>InputCellDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4727DB2AA647E6189E27C9A1627C2FF8F2550F92</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/libing1125/InputCellDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4727DB2AA647E6189E27C9A1627C2FF8F2550F92</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4727DB2AA647E6189E27C9A1627C2FF8F2550F92</string>
+			<key>IDESourceControlWCCName</key>
+			<string>InputCellDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

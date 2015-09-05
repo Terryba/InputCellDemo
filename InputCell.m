@@ -64,6 +64,8 @@
     return YES;
 }
 -(BOOL)textFieldShouldEndEditing:(UITextField *)textField{
+    
+    //block跟代理很相似，每次调用block的时候，^{}里面的代码才会执行
     if (_block) {
         if (_textField.text && _textField.text.length > 0) {
             _block(_textField.text,_indexPath);
